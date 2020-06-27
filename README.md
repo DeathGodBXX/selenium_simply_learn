@@ -5,9 +5,9 @@ selenium simply learning
 conditions:
 
 
-  download chromedriver 80 
+    download chromedriver 80 
 
-  download xpath helper for chrome xml
+    download xpath helper for chrome xml
 
-  pip install selenium 
+    pip install selenium 
   
